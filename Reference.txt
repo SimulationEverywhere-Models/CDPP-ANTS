@@ -1,0 +1,6 @@
+Reference
+
+The Courteous Walkers CA
+Richard J. Gaylord, Kazume Nishidate.1996.
+"Modeling Nature-Cellular Automata Simulations with Mathematica".
+P71-79
